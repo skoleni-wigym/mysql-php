@@ -1,0 +1,18 @@
+INSERT INTO `dogs` (`name`, `birthday`, `breed`, `rating`) VALUES
+('Puňťa',	'2017-10-01',	'Corgi', 4),
+('Minirexík',	'2019-09-11',	'Corgi', 5),
+('František',	'2010-02-13',	'Kokršpaněl', 1),
+('Bublina',	'2013-01-02',	'Corgi', 5),
+('Jan Vlastimil III.',	'2008-06-30',	'Kokršpaněl', 2),
+('Kubík',	'2012-07-23',	'Pitbull', 3),
+('Kačenka',	'2011-12-05',	'Husky', 5),
+('Sára',	'2009-02-21',	'Zlatý retrívr', 3),
+('Bela',	'2014-07-08',	'Sheltie', 2),
+('Kelly',	'2010-03-27',	'Labrador', 4),
+('Flek',	'2018-11-13',	'Bišonek', 3),
+('Maxík',	'2017-03-30',	'Corgi', 4),
+('Bublina',	'2011-11-12',	'Foxteriér', 2),
+('Pišta',	'2017-03-30',	'Corgi', 3),
+('Palačinka',	'2011-01-31',	'Corgi', 5),
+('Sisi',	'2017-08-01',	'Yorkšírský teriér', 1),
+('Missy',	'2017-08-01',	'Yorkšírský teriér', 1);
