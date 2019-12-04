@@ -1,17 +1,13 @@
 <?php
-
-// IP adresa nebo jméno serveru, kde běží MySQL databáze
-$server = 'mysql';
-// Uživatel databáze
-$user = 'root';
-// Heslo uživatele
-$password = 'root';
-
-// Připojení
-$db = new mysqli($server, $user, $password);
+// --- Připojení ---
+// Parametry jsou:
+// 1) IP adresa nebo URL serveru s databází
+// 2) Uživatelské jméno
+// 3) Heslo
+$database = mysqli_connect("mysql", "root", "root");
 
 // Selhalo připojení?
-if ($db->connect_error) {
-    echo 'Connection failed.';
+if ($database === false) {
+    echo "Connection failed.";
     die; // 🔫 RIP
 }

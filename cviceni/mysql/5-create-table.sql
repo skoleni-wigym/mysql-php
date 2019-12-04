@@ -6,8 +6,16 @@ CREATE TABLE `pokedex_kanto`
     `type` TEXT
 );
 
+-- vytvoř stejnou tabulku, ale jenom pokud už neexistuje!
+CREATE TABLE IF NOT EXISTS `pokedex_kanto`
+(
+    `number` INT,
+    `name` TEXT,
+    `type` TEXT
+);
+
 -- vlož pokemony do tabulky (volitelné)
-INSERT INTO `pokedex`
+INSERT INTO `pokedex_kanto`
 (`number`, `name`, `type`)
 VALUES
 (1, 'Bulbasaur', 'Grass'),
