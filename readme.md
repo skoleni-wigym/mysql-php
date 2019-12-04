@@ -1,9 +1,9 @@
-# Cvičení
+# Témata
 
 ## 1) MySQL
 
-1. Co je MySQL (prezentace?)
-2. Základní pojmy (prezentace?)
+1. Co je MySQL (prezentace)
+2. Základní pojmy (prezentace)
     - Databáze
     - Tabulka
     - Řádky, sloupce
@@ -12,7 +12,7 @@
     1. `SELECT * FROM ...`
     2. `SELECT x FROM ...`
     3. `SELECT COUNT(*) FROM ...`
-    - Bonus round?
+    4. (Volitelně) Bonus round
 4. Podmínky
     1. `SELECT * WHERE ...`
 5. Omezení a řazení
@@ -27,7 +27,7 @@
 10. CREATE TABLE
 11. ALTER TABLE
 12. DROP/TRUNCATE TABLE
-13. Omezení sloupců (skočit zpět do prezentace?)
+13. Omezení sloupců (prezentace)
     - DEFAULT
     - PK (AUTOINCREMENT?)
     - UNIQUE
@@ -38,17 +38,17 @@
 
 ## 2) PHP (rychlé intro do jazyka)
 
-1. Co to je? (přednáška)
-2. Jak se to spouští - server (přednáška)
-3. Základní syntaxe (přednáška)
+1. Co to je? (prezentace)
+2. Jak se to spouští - server (prezentace)
+3. Základní syntaxe (prezentace)
     - Proměnné
     - Podmínky
     - Cykly
     - Objekty/třídy
 
-## 3) PHP + MySQL (PDO)
+## 3) PHP + MySQL (MySQLi)
 
-1. MySQLi rozšíření - stručný úvod (přednáška? zmínit PDO?)
+1. MySQLi rozšíření - stručný úvod (prezentace)
 2. Připojení + vytvoření tabulky
 3. SELECT
 4. INSERT
