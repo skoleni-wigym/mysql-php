@@ -44,7 +44,6 @@
     - Proměnné
     - Podmínky
     - Cykly
-    - Objekty/třídy
 
 ## 3) PHP + MySQL (MySQLi)
 
