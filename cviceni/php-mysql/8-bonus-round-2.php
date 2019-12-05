@@ -15,7 +15,6 @@ if ($database === false) {
     die; // 🔫 RIP
 }
 
-// Základní ochranou před XSS útoky je ošetření vstupu z formulářů
 $number = $_POST['pokemon-number'];
 $name = $_POST['pokemon-name'];
 $type = $_POST['pokemon-type'];
