@@ -25,7 +25,6 @@
     1. `DELETE FROM ...`
     2. `DELETE FROM ... WHERE ...`
 10. CREATE TABLE
-11. ALTER TABLE
 12. DROP/TRUNCATE TABLE
 13. Omezení sloupců (prezentace)
     - DEFAULT
@@ -34,7 +33,7 @@
     - NOT NULL
     - CHECK
 14. CREATE TABLE s omezením
-15. ALTER TABLE s omezením
+15. BONUS ROUND: ALTER TABLE
 
 ## 2) PHP (rychlé intro do jazyka)
 
