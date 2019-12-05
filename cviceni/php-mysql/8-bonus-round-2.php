@@ -16,9 +16,9 @@ if ($database === false) {
 }
 
 // Základní ochranou před XSS útoky je ošetření vstupu z formulářů
-$number = strip_tags($_POST['pokemon-number']);
-$name = strip_tags($_POST['pokemon-name']);
-$type = strip_tags($_POST['pokemon-type']);
+$number = $_POST['pokemon-number'];
+$name = $_POST['pokemon-name'];
+$type = $_POST['pokemon-type'];
 
 if ($number && $name && $type) {
     // Dotaz s placeholdery "?" místo skutečných hodnot
