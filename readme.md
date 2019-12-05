@@ -44,6 +44,11 @@
     - Proměnné
     - Podmínky
     - Cykly
+4. Kombinace HTML + logiky, jak funguje interpreter
+5. Výpis dat, stringy, komentáře, proměnné
+6. Podmínky
+7. Cykly, pole
+8. Vlastní funkce
 
 ## 3) PHP + MySQL (MySQLi)
 
@@ -54,5 +59,5 @@
 5. UPDATE
 6. DELETE
 7. Bonus round:
-    1. Uložení dat z formuláře do databáze
-    2. SQL injection + ošetření dotazů (MySQLi prepared statements)
+    1. Uložení dat z formuláře do databáze (ukázka SQL inj. + XSS)
+    2. Ošetření dotazů (MySQLi prepared statements) před SQL inj. a výpisů před XSS
