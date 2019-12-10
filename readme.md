@@ -1,3 +1,22 @@
+# Doplňující materiály
+
+## CS
+- [Správné MySQL kódování a case (in)sensitive](https://www.kutac.cz/weby-a-vse-okolo/spravne-mysql-kodovani-a-case-insensitive)
+- [Pohledy, účty a privilegia v MySQL](https://www.kutac.cz/weby-a-vse-okolo/pohledy-ucty-a-privilegia-v-mysql)
+- [Adminer - to chceš](https://www.kutac.cz/weby-a-vse-okolo/adminer-to-chces)
+- [Jednoduché a dvojité uvozovky v PHP](https://www.kutac.cz/weby-a-vse-okolo/jednoduche-a-dvojite-uvozovky-v-php)
+- [Instalace Apache, PHP a MySQL za 30 vteřin](https://www.zdrojak.cz/clanky/instalace-apache-php-mysql-za-30-vterin/)
+- [SQL Injection pre každého](https://www.zdrojak.cz/clanky/sql-injection-pre-kazdeho/)
+- [Zranitelnosti typu injekce: SQL injekce](https://www.root.cz/clanky/zranitelnosti-typu-injekce-sql-injekce/)
+- [Seriál Seznámení s SQL](https://www.root.cz/serialy/seznameni-s-sql/)
+- [Základní kurz PHP](http://www.pehapko.cz/zakladni-kurz/1-uvod)
+- [MySQL databáze krok za krokem](https://www.itnetwork.cz/mysql)
+
+## EN
+- [MySQL Tutorial](http://www.mysqltutorial.org/)
+- [W3Schools - PHP Tutorial](https://www.w3schools.com/php/)
+- [Interaktivní výuka PHP, MySQL a dalších](https://www.codecademy.com/learn)
+
 # Témata
 
 ## 1) MySQL

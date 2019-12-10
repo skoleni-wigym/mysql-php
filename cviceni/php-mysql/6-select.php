@@ -28,7 +28,7 @@ var_dump($pokemons);
 //     echo "#".$pokemons[$i]["number"]." ".$pokemons[$i]["name"]."<br>";
 // }
 
-// 4) (BONUS ROUND?) Vypiš čitelně názvy a čísla pokemonů, ale s hezčí syntaxí
+// 4) (BONUS ROUND) Vypiš čitelně názvy a čísla pokemonů, ale s hezčí syntaxí
 // foreach ($pokemons as $pokemon) {
 //     $number = $pokemon["number"];
 //     $name = $pokemon["name"];
